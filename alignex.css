@@ -1,0 +1,45 @@
+body{
+    color:dimgrey;
+}
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+div{
+    
+    background-color: lightgrey;
+    text-align: center;
+}
+#txt1{
+    text-decoration: underline;
+    font-size: 15px;
+}
+#txt2{
+    color: red;
+    font-size: 12px;
+}
+a:hover{
+    background-color: brown;
+    color: white;
+    text-decoration: line-through;
+}
+
+h2{
+    color: darkcyan;
+    text-decoration: underline;
+    text-align: center;
+}
+.txt4{
+    text-align: right;
+    color: white;
+    background-color: darkcyan;
+    font-weight: bold;
+}
+.txt5{
+    background-color: orange;
+}
+#txt6{
+    color: red;
+    font-size: 13px;
+}
