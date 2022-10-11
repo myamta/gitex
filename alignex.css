@@ -1,16 +1,17 @@
 body{
     color:dimgrey;
 }
-h1{
-    background-color: black;
-    color: white;
-    text-align: center;
-}
 div{
     
     background-color: lightgrey;
     text-align: center;
 }
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
 #txt1{
     text-decoration: underline;
     font-size: 15px;
