@@ -20,6 +20,12 @@ h1{
     color: red;
     font-size: 12px;
 }
+a:link{
+    color: white;
+    background-color: brown;
+    text-decoration: none;
+}
+
 a:hover{
     background-color: brown;
     color: white;
